@@ -12,7 +12,7 @@
 ## 1. Status Atual
 
 ### Git
-- **Status:** Sem repositório Git
+- **Status:** Repo Git criado: hlobeu/iris-vertical
 - **Arquivos na raiz:** 1
 - **Status:** Projeto em estágio inicial (sem código versionado)
 
