@@ -37,7 +37,7 @@
 IRIS/
 ├── INDEX.md           ✅
 └── (sem LICOES.md — pendente)
-    (sem README.md — pendente)
+    (README.md ✅)
     (sem DOSSIE.md — criado agora)
 ```
 
@@ -63,7 +63,7 @@ IRIS/
 ### Pendências imediatas
 - [ ] Criar repositório Git (se aplicável)
 - [ ] Criar LICOES.md (template do Reino)
-- [ ] Criar README.md
+- [x] README.md criado
 - [ ] Definir stack técnica
 - [ ] Definir deploy no Swarm
 
